@@ -116,6 +116,8 @@ nav ul li a:hover {
     padding-right: 150px;
     flex: 1;
     color: rgb(193, 139, 243);
+    font-weight: bold;
+    font-style: italic; 
 }
 
 .imagen{
